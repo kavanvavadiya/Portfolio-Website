@@ -1,0 +1,28 @@
+nav a:hover{
+    text-decoration-line: underline;
+    font-weight: bolder;
+    /* font-size: larger; */
+    cursor: pointer;
+    /* color: rgb(274, 100, 84); */
+    color: #6366F1;
+}
+nav a{
+    font-size: large;
+    /* color: white; */
+    /* text-decoration: none; */
+}
+.selected{
+    text-decoration: double;
+    text-decoration-line: underline;
+    font-weight: bolder;
+    /* font-size: larger; */
+    cursor: pointer;
+    /* color: rgb(274, 100, 84); */
+}
+.Heading{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+button a:hover{
+    text-decoration: none;
+}
